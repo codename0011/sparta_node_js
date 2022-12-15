@@ -1,5 +1,4 @@
 const express = require("express");
-const hashUtil = require("../utils/hash");
 const { Comment } = require("../schemas");
 const router = express.Router();
 
